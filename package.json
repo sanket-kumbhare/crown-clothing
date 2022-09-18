@@ -1,6 +1,6 @@
 {
-  "homepage": "http://sanket-kumbhare.github.io/crown-clothing",
-  "name": "crown",
+  "homepage": "http://crown-clothing.github.io",
+  "name": "crown-clothing",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
